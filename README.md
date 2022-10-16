@@ -1,6 +1,5 @@
 ### Hi friend 👋
 
-- 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Java,Frontend
 - 👯 I’m looking to collaborate on Projects
 
